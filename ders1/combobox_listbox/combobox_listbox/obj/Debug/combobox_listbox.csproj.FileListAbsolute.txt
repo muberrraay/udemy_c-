@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\bin\Debug\combobox_listbox.exe.config
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\bin\Debug\combobox_listbox.exe
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\bin\Debug\combobox_listbox.pdb
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.Form1.resources
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.Properties.Resources.resources
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.exe
+C:\Users\Müberra Yerinde\source\repos\combobox_listbox\combobox_listbox\obj\Debug\combobox_listbox.pdb
