@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|c:\\users\\m\u00FCberra yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|solutionrelative:maskedtextbox_picturebox_datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|c:\\users\\m\u00FCberra yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|solutionrelative:maskedtextbox_picturebox_datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|c:\\users\\m\u00FCberra yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E38C8C-EF50-47D1-ABD9-4B7218CBD595}|maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker.csproj|solutionrelative:maskedtextbox_picturebox_datetimepicker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "maskedtextbox_picturebox_datetimepicker\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.Designer.cs",
+              "RelativeToolTip": "maskedtextbox_picturebox_datetimepicker\\Form1.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwE8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:34.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "RelativeDocumentMoniker": "maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "RelativeToolTip": "maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "RelativeDocumentMoniker": "maskedtextbox_picturebox_datetimepicker\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\maskedtextbox_picturebox_datetimepicker\\maskedtextbox_picturebox_datetimepicker\\Form1.cs [Design]",
+              "RelativeToolTip": "maskedtextbox_picturebox_datetimepicker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:53:58.502Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox_radiobutton_richtextbox_panel_groupbox", "checkbox_radiobutton_richtextbox_panel_groupbox\checkbox_radiobutton_richtextbox_panel_groupbox.csproj", "{8416A50B-8A44-4CB6-B82E-6520CA7711D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8416A50B-8A44-4CB6-B82E-6520CA7711D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8416A50B-8A44-4CB6-B82E-6520CA7711D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8416A50B-8A44-4CB6-B82E-6520CA7711D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8416A50B-8A44-4CB6-B82E-6520CA7711D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A126223B-9FDF-4AE9-9F4F-89A2796CF410}
+	EndGlobalSection
+EndGlobal
