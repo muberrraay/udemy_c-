@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\bin\Debug\Variables_uygulama.exe.config
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\bin\Debug\Variables_uygulama.exe
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\bin\Debug\Variables_uygulama.pdb
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.Form1.resources
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.Properties.Resources.resources
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.exe
+C:\Users\Müberra Yerinde\source\repos\Variables_uygulama\Variables_uygulama\obj\Debug\Variables_uygulama.pdb
