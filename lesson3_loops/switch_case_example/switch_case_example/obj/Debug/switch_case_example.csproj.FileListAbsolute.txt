@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\bin\Debug\switch_case_example.exe.config
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\bin\Debug\switch_case_example.exe
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\bin\Debug\switch_case_example.pdb
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.Form1.resources
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.Properties.Resources.resources
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.exe
+C:\Users\Müberra Yerinde\source\repos\switch_case_example\switch_case_example\obj\Debug\switch_case_example.pdb

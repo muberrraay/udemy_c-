@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|c:\\users\\m\u00FCberra yerinde\\source\\repos\\switch_case_example\\switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|solutionrelative:switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\switch_case_example\\Form1.cs",
+              "RelativeDocumentMoniker": "switch_case_example\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\switch_case_example\\Form1.cs",
+              "RelativeToolTip": "switch_case_example\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:21:59.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
