@@ -1,0 +1,14 @@
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\bin\Debug\net8.0\classes_consolapp_methods.exe
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\bin\Debug\net8.0\classes_consolapp_methods.deps.json
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\bin\Debug\net8.0\classes_consolapp_methods.runtimeconfig.json
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\bin\Debug\net8.0\classes_consolapp_methods.dll
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\bin\Debug\net8.0\classes_consolapp_methods.pdb
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.AssemblyInfoInputs.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.AssemblyInfo.cs
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.dll
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\refint\classes_consolapp_methods.dll
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.pdb
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\classes_consolapp_methods.genruntimeconfig.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson6_classes\classes_consolapp_methods\classes_consolapp_methods\obj\Debug\net8.0\ref\classes_consolapp_methods.dll
