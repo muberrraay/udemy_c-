@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\",
+  "WorkspaceRootPath": "C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|c:\\users\\m\u00FCberra yerinde\\source\\repos\\switch_case_example\\switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|solutionrelative:switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|solutionrelative:switch_case_example\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|c:\\users\\m\u00FCberra yerinde\\desktop\\udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4CB6B3C-90B3-483B-96E2-9EC8A06E526D}|switch_case_example\\switch_case_example.csproj|solutionrelative:switch_case_example\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\switch_case_example\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\Form1.cs",
               "RelativeDocumentMoniker": "switch_case_example\\Form1.cs",
-              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\source\\repos\\switch_case_example\\switch_case_example\\Form1.cs",
-              "RelativeToolTip": "switch_case_example\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\Form1.cs*",
+              "RelativeToolTip": "switch_case_example\\Form1.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:21:59.183Z",
+              "WhenOpened": "2024-07-13T17:29:05.057Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\Form1.cs",
+              "RelativeDocumentMoniker": "switch_case_example\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\u00FCberra Yerinde\\Desktop\\Udemy_c#\\lesson3_loops\\switch_case_example\\switch_case_example\\Form1.cs [Design]*",
+              "RelativeToolTip": "switch_case_example\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:30:23.843Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

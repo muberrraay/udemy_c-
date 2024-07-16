@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\bin\Debug\series_uygulama.exe.config
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\bin\Debug\series_uygulama.exe
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\bin\Debug\series_uygulama.pdb
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.Form1.resources
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.Properties.Resources.resources
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.exe
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson4_series\series_uygulama\series_uygulama\obj\Debug\series_uygulama.pdb

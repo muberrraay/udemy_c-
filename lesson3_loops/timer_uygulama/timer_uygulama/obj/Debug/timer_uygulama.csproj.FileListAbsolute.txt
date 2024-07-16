@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\bin\Debug\timer_uygulama.exe.config
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\bin\Debug\timer_uygulama.exe
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\bin\Debug\timer_uygulama.pdb
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.Form1.resources
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.Properties.Resources.resources
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.exe
+C:\Users\Müberra Yerinde\source\repos\timer_uygulama\timer_uygulama\obj\Debug\timer_uygulama.pdb

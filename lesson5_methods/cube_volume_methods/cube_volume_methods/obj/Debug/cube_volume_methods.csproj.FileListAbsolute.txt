@@ -1,0 +1,10 @@
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\bin\Debug\cube_volume_methods.exe.config
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\bin\Debug\cube_volume_methods.exe
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\bin\Debug\cube_volume_methods.pdb
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.csproj.AssemblyReference.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.Form1.resources
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.Properties.Resources.resources
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.csproj.GenerateResource.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.csproj.CoreCompileInputs.cache
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.exe
+C:\Users\Müberra Yerinde\Desktop\Udemy_c#\lesson5_methods\cube_volume_methods\cube_volume_methods\obj\Debug\cube_volume_methods.pdb
